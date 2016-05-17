@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462653109 source:c:\users\danilo\desktop\unitec\progra 2\contar cuantos son divisibles entre 5 while\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+

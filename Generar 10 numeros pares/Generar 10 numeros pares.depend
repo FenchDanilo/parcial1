@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1462686986 source:c:\users\danilo\desktop\unitec\progra 2\generar 10 numeros pares\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1462686986 source:c:\users\danilo\desktop\unitec\progra 2\c++\generar 10 numeros pares\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+

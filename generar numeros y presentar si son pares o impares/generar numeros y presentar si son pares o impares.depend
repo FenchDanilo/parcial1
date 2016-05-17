@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462315394 source:c:\users\danilo\desktop\unitec\progra 2\generar numeros y presentar si son pares o impares\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+

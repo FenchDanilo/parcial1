@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1462126650 source:c:\users\danilo\desktop\unitec\progra 2\imprimir al reves\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
